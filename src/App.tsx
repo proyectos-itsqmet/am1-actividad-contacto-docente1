@@ -9,8 +9,7 @@ function App() {
   return (
     <>
       <div className="m-5">
-        <h2>Tema: Actividad contacto docente 1</h2>
-        <h3>Alumno: Araque Gerardo</h3>
+        <h2>Actividad contacto docente 1</h2>
         <hr className="mb-5" />
         <AreaCuadrado />
         <hr className="mb-5" />
